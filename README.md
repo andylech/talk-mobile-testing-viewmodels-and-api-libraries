@@ -6,14 +6,10 @@ Slides for the talk "Find Bugs Faster through ViewModel and API Library Testing"
 
 [Sessionize Session Page](https://sessionize.com/s/andy-lech/find-bugs-faster-through-viewmodel-and-api-/145961)
 
-<!--
-
 Title page:
 
-![Talk Title Page](./.github/images/)
+![Talk Title Page](./.github/images/Testing%20ViewModels%20and%20API%20Libraries%20-%20Title%20Page%20-%20@AndyLech.png)
 
 Topics page:
 
-![Talk Topics Page](./.github/images/)
-
--->
+![Talk Topics Page](./.github/images/Testing%20ViewModels%20and%20API%20Libraries%20-%20Topics%20Page%20-%20@AndyLech.png)
